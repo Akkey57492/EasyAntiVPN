@@ -1,0 +1,6 @@
+name: EasyAntiVPN
+version: '${project.version}'
+main: anti.vpn.easyantivpn.EasyAntiVPN
+api-version: 1.17
+authors: [ Akkey57492 ]
+description: 簡易的なVPN検知システム
